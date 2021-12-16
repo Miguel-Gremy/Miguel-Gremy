@@ -1,15 +1,15 @@
 <h1 align="center">Hey, I'm Gremy Miguel</h1>
 <h3 align="center">A french student</h3>
 
-- 🔭 I’m currently working on [Oyster (a personal project)](https://github.com/Miguel-Gremy-Perso/Oyster)
+- 🔭 I’m currently working on [GiteaClient (a personal project)](https://github.com/Miguel-Gremy/GiteaClient)
 
-- 👨‍💻 All of my projects are available at [gremy.ovh](gremy.ovh)
+- 👨‍💻 All of my projects are available at [gitea.gremy.ovh](https://gitea.gremy.ovh)
 
 - 📫 How to reach me **miguel.gremy72@gmail.com** | **miguel@gremy.ovh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/miguel gremy" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/miguel-gremy/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="miguel gremy" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/16201668" target="blank"><img align="center"
@@ -18,7 +18,7 @@
     <a href="https://instagram.com/miguelgremy" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="miguelgremy" height="30" width="40" /></a>
-    <a href="https://discord.gg/epsilonehd#0752" target="blank"><img align="center"
+    <a href="https://discord.com/epsilonehd#0752" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="epsilonehd#0752" height="30" width="40" /></a>
 </p>
