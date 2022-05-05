@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gremy Miguel</h1>
 <h3 align="center">A french student</h3>
 
-- 🔭 I’m currently working on [AspApiSample (a personal project)](https://github.com/Miguel-Gremy/AspApiSample)
+- 🔭 I’m currently working on [gremy.ovh (a personal project)](https://github.com/gremy-ovh)
 
 - 👨‍💻 All of my projects are available at [gitea.gremy.ovh](https://gitea.gremy.ovh)
 
